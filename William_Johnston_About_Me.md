@@ -18,7 +18,7 @@ What is your favorite cuisine?
 
 ## Hobbies:
 
-- I like running, board games, working on projects, taking care of my plants, and hanging out
+- I like running, board games, working on projects, and hanging out
 
 ## What you want to do when you graduate?
 
