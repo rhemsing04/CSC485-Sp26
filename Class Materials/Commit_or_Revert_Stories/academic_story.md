@@ -10,7 +10,8 @@ Each student has unique opinions and feelings about the assignments.
 A project is announced that seems simple, but hides unexpected complexity.
 
 ## The Meetings
-Office hours, Zoom calls, and group projects go hilariously off track.
+Office hours, Zoom calls, and group projects go hilariously off track. 
+But Professor Chou brings the discussion back on track.
 
 ## The Conference
 A faculty or student conference throws an absolute chucker in Mcpheezys, boosting class morale and inspiring brilliance.
